@@ -1,0 +1,2 @@
+This is a beginner-friendly calculator project developed in a Jupyter Notebook using Python. The calculator supports the four basic arithmetic operations: addition, subtraction, multiplication, and division. Users can interactively input numbers and choose the operation they want to perform. This project is ideal for those learning Python and looking to build foundational coding skills by working with variables, functions, conditional statements, and input/output.
+
